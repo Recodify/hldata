@@ -1,0 +1,27 @@
+[{
+    "name": "Silviu's House",
+    "reference": "p_002",
+    "landlordReference": "Homelync",
+    "typeId": "FLAT",
+    "statusId": "ACTIVE",
+    "constructionTypeId": "TRA",
+    "heatingTypeId": "ELEC",
+    "constructionDate": "1960-01-01",
+    "address": {
+        "nameNumber": "30",
+        "street": "Ambiorixsquare",
+        "locality": "",
+        "city": "Brussels",
+        "postcode": "1000",
+        "country": "Belgium"
+    },
+    "geo": {
+        "latitude": 50.8462897,
+        "longitude": 4.384067,
+        "pitch": 8,
+        "heading": 180,
+        "zoom": 14
+    },
+    "propertyIdentifiers": [
+    ]
+}]

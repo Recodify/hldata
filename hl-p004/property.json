@@ -1,0 +1,27 @@
+[{
+    "name": "Sam's House",
+    "reference": "p_004",
+    "landlordReference": "Homelync",
+    "typeId": "FLAT",
+    "statusId": "ACTIVE",
+    "constructionTypeId": "TRA",
+    "heatingTypeId": "GAS",
+    "constructionDate": "1900-01-01",
+    "address": {
+        "nameNumber": "Basement Flat 6",
+        "street": "Cotham Grove",
+        "locality": "Cotham",
+        "city": "Bristol",
+        "postcode": "BS66AL",
+        "country": "United Kingdom"
+    },
+    "geo": {
+        "latitude": 51.4657112,
+        "longitude": -2.5974999,
+        "pitch": 8,
+        "heading": 207,
+        "zoom": 14
+    },
+    "propertyIdentifiers": [
+    ]
+}]

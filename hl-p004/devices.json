@@ -1,0 +1,19 @@
+[
+    {
+        "propertyId": "p_002",
+        "manufacturerReference": "UBIBOT",
+        "name": "Ubibot - ws1",
+        "serialNumber": "4Y6P7YWS1",
+        "modelReference": "ws1",
+        "locationId": "LIVINGROOM",
+        "statusId": "ACTIVE",
+        "typeId": "ENV",
+        "installationDate": "2019-04-01T18:19:49.737Z",
+        "deviceIdentifiers": [
+            {
+                "key": "channel",
+                "value": "1937"
+            }
+        ]
+    }
+]

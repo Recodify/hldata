@@ -1,0 +1,28 @@
+[{
+    "name": "test1234",
+    "reference": "test1234",
+    "landlordReference": "Homelync",
+    "typeId": "BUNG",
+    "statusId": "ACTIVE",
+    "constructionTypeId": "TRA",
+    "heatingTypeId": "GAS",
+    "constructionDate": "1900-01-01",
+    "address": {
+        "nameNumber": "1",
+        "street": "Test Street",
+        "locality": "Clifton",
+        "city": "Bristol",
+        "postcode": "BS88DJ",
+        "country": "United Kingdom"
+    },
+    "geo": {
+        "latitude": 100,
+        "longitude": 100,
+        "pitch": 100,
+        "heading": 100,
+        "zoom": 8
+    },
+    "propertyIdentifiers": [
+        {"key": "test", "value": "1234"}
+    ]
+}]
